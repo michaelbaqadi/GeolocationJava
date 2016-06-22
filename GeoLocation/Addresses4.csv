@@ -1,0 +1,422 @@
+Address,City,Country,Postal_Code,State_Province,Country,Google Verified Address,Latitude,Longitude
+400 Rodeo Place,Ne Anchorage,US,99503,AK,USA,Home Depot  400 Rodeo Pl  Anchorage  AK 99508  USA,61.2184144,-149.8139829
+150 Market Drive,Elyrria,US,44036,OH,USA,150 Market Dr  Elyria  OH 44035  USA,41.3869028,-82.107002
+1400 Tintern Lane,Orton,US,23321,VA,USA,Chesapeake  VA 23321  USA,36.8032821,-76.4215988
+145 Levitton Pkwy,SunnyTown,US,19057,PA,USA,Levittown  PA 19057  USA,40.1344021,-74.8565613
+100 Car Mia Way,Richmond,US,23236,VA,USA,Richmond  VA 23236  USA,37.4759039,-77.590597
+3926 Linden St.,Bethlehem,US,18017,PA,USA,3926 Linden St  Bethlehem  PA 18017  USA,40.6740345,-75.3430231
+345 Springboro Pike 741,Miamisburg,US,45342,OH,USA,345 N Springboro Pike  Dayton  OH 45449  USA,39.644604,-84.22603699999999
+751 Horsham Road Unit#D,Lansdale,US,19446,PA,USA,751 Horsham Rd  Lansdale  PA 19446  USA,40.2475073,-75.23923529999999
+224 Elson Green Avenue,Virginia Beach,US,23462,VA,USA,Elson Green Ct  Virginia Beach  VA 23454  USA,36.7559752,-76.00508289999999
+545 French Rd.,New Hartford,US,13413,NY,USA,545 French Rd  New Hartford  NY 13413  USA,43.089371,-75.28056699999999
+615 Arsenal Street,Watertown,US,2471,MA,USA,615 Arsenal St  Watertown  MA 02471  USA,42.3625797,-71.15741129999999
+Route 1 & 9 Linden Airport,NoCity,US,7036,NJ,USA,null,null,null
+440 Rte 440,Jersey City,US,7302,NJ,USA,440 NJ-440  Jersey City  NJ 07304  USA,40.71906380000001,-74.0935477
+Rte #15 Mt. Pleasonton Av,Dover,US,6666,NJ,USA,null,null,null
+1055 Patterson Plank Rd.,Secaucus,US,7096,NJ,USA,1055 Paterson Plank Rd  Secaucus  NJ 07094  USA,40.7833556,-74.0501805
+4665 State Highway 17,Mahwah,US,7498,NJ,USA,NJ-17  Mahwah  NJ 07430  USA,41.0954051,-74.1567164
+1 Route 46,Montville,US,7045,NJ,USA,1 US-46  Caldwell  NJ 07006  USA,40.85800709999999,-74.3469188
+Olden Ave. & Artic Pkwy.,Ewing,US,8628,NJ,USA,N Olden Ave & Arctic Pkwy  Ewing Township  NJ 08638  USA,40.2446291,-74.76024650000001
+Rte 5 & Old Colony Rd.,Wallingford,US,6492,CT,USA,US-5 & Old North Colony Rd  Wallingford  CT 06492  USA,41.498119,-72.8100577
+3800 Central Expressway,East Plano,US,75075,TX,USA,3800 N Central Expy  Plano  TX 75074  USA,33.0448381,-96.6989842
+305 West Quinn Rd.,Pocatello,US,83202,ID,USA,305 W Quinn Rd  Pocatello  ID 83201  USA,42.904696,-112.4557605
+2900 Patriot Blvd,Glenview,US,60025,XX,USA,2900 Patriot Blvd  Glenview  IL 60026  USA,42.1093625,-87.8215817
+1375 N. Meacham Drive,Schaumburg,US,60193,IL,USA,1375 N Meacham Rd  Schaumburg  IL 60173  USA,42.0551847,-88.0419058
+9915 W 159th Street,Orland Park,US,60462,IL,USA,9915 W 159th St  Orland Park  IL 60467  USA,41.5994653,-87.8619044
+4201 West Wendover Ave,Greensboro,CA,27402,NC,USA,4201 W Wendover Ave  Greensboro  NC 27407  USA,36.0574121,-79.8835837
+2125 Bla Bla Road,Matthews,US,28106,NC,USA,Matthews  NC 28106  USA,35.1143176,-80.71971309999999
+5125 Jonestown Road,Harrisburg,US,17109,PA,USA,5125 Jonestown Rd  Harrisburg  PA 17112  USA,40.3098201,-76.7995798
+3656 Wall Avenue,S. Ogden,US,84403,UT,USA,3656 Wall Ave  Ogden  UT 84405  USA,41.1969447,-111.9775314
+14555 Valley Center Drive,Victorville,CA,92392,CA,USA,14555 Valley Center Dr  Victorville  CA 92395  USA,34.5149958,-117.3186013
+1755 Hacienda Drive,Vista,US,92083,CA,USA,1755 Hacienda Dr  Vista  CA 92081  USA,33.1883247,-117.2764952
+22633 Savi Ranch Parkway,Yorba Linda,US,92886,CA,USA,22633 Savi Ranch Pkwy  Yorba Linda  CA 92887  USA,33.8758177,-117.7439916
+3031 Killdeer Avenue,Albany,US,97321,OR,USA,3031 Killdeer Ave SE  Albany  OR 97322  USA,44.63854130000001,-123.065852
+10000 W. McDowell Road,Avondale,US,85323,AZ,USA,10000 W McDowell Rd  Avondale  AZ 85392  USA,33.4673339,-112.2744376
+951 Palomar Airport Rd.,Carlsbad,US,92009-1110,CA,USA,951 Palomar Airport Rd  Carlsbad  CA 92011  USA,33.1201381,-117.3165503
+2828 Chad Drive,Eugene,US,97401,OR,USA,2828 Chad Dr  Eugene  OR 97408  USA,44.0888556,-123.0662122
+5101 Business Center Dr,Fairfield,US,94585,CA,USA,5101 Business Center Dr  Fairfield  CA 94534  USA,38.2152403,-122.1454704
+10990 Harbor Hill Dr.,Gig Harbor,US,98335,WA,USA,10990 Harbor Hill Dr  Gig Harbor  WA 98335  USA,47.3573567,-122.6043929
+2887 South Market Street,Gilbert,US,85296,AZ,USA,2887 S Market St  Gilbert  AZ 85297  USA,33.2961656,-111.7449103
+8125 Fletcher Parkway,La Mesa,US,91941,CA,USA,8125 Fletcher Pkwy  La Mesa  CA 91942  USA,32.7737125,-117.0247217
+2800 Independence Dr.,Livermore,US,94550,CA,USA,2800 Independence Dr  Livermore  CA 94551  USA,37.7028882,-121.8125616
+2440 Daniels St.,Manteca,US,95336,CA,USA,2440 Daniels St  Manteca  CA 95337  USA,37.7853216,-121.2605559
+2001 East Ventura Blvd,Oxnard,US,93030,CA,USA,2001 Ventura Blvd  Oxnard  CA 93030  USA,34.22539210000001,-119.1477949
+1540 Froom Ranch Way,San Luis Obispo,US,93401,CA,USA,1540 Froom Ranch Way  San Luis Obispo  CA 93405  USA,35.2518482,-120.6912232
+18649 Via Princessa,Santa Clarita,US,91351,CA,USA,18649 Vía Princessa  Santa Clarita  CA 91387  USA,34.4046721,-118.4616339
+5100 28th St SE,Grand Rapids,US,49548,MI,USA,5100 28th St SE  Grand Rapids  MI 49512  USA,42.91057139999999,-85.5428219
+17800 Congress Avenue,Boca Raton,US,33431,FL,USA,17800 Congress Ave  Boca Raton  FL 33487  USA,26.4127325,-80.10038469999999
+1232 W North Ave,Chicago,US,60622,IL,USA,1232 W North Ave  Chicago  IL 60642  USA,41.9112493,-87.6589181
+2850 Patriot Blvd,Glenview,US,60025,IL,USA,2850 Patriot Blvd  Glenview  IL 60026  USA,42.1078257,-87.8233068
+10151 Bloomingdale Ave,Riverview,US,33569,FL,USA,10151 Bloomingdale Ave  Riverview  FL 33578  USA,27.8913605,-82.3331537
+131-35 Avery Avenue,Flushing,US,11554,NY,USA,132-35 Avery Ave  Flushing  NY 11355  USA,40.7528019,-73.831122
+29-70 Cropsey Avenue,Brooklyn,US,11214,NY,USA,29 Cropsey Ave  Brooklyn  NY 11228  USA,40.6077306,-74.0170237
+43900 Icehouse Terrace,Fremont,US,94539,CA,USA,43900 Ice House Terrace  Fremont  CA 94538  USA,37.5111942,-121.9463883
+2500 Las Pisitas Rd.,Livermore,US,94550,CA,USA,2500 Las Positas Rd  Livermore  CA 94551  USA,37.6987508,-121.7707074
+2756 Sunrise Boulevard,Rancho Cordova,US,95670,CA,USA,Sunrise Blvd  Rancho Cordova  CA 95670  USA,38.6179982,-121.2684007
+3611 Truxel Road,Sacramento,US,95833,CA,USA,3611 Truxel Rd  Sacramento  CA 95834  USA,38.6329459,-121.505896
+20642 Golden Triangle Road,Santa Clarita,US,91350,CA,USA,20642 Golden Triangle Rd  Santa Clarita  CA 91351  USA,34.419174,-118.497052
+2120 South Bradley Road,Santa Maria,US,93454,CA,USA,2120 S Bradley Rd  Santa Maria  CA 93455  USA,34.9222784,-120.4220154
+401 W. Esplanade Drive,Oxnard,US,93030,CA,USA,401 W Esplanade Dr  Oxnard  CA 93036  USA,34.2355285,-119.1779623
+32715 Eiland Blvd.,Zephyrhills,US,33544,FL,USA,32715 Eiland Blvd  Zephyrhills  FL 33545  USA,28.2200065,-82.2491696
+95th & Metcalf,Overland Park,US,66212,KS,USA,Metcalf Ave & W 95th St  Overland Park  KS 66212  USA,38.956781,-94.6675229
+2727 Alpine Ave,Grand Rapids,US,49504,MI,USA,2727 Alpine Ave NW  Grand Rapids  MI 49544  USA,43.0129019,-85.690647
+74-5475 Kamaka'eha Avenue,Kailua-Kona,US,96740,HI,USA,74-5475 Kamakaeha Ave  Kailua-Kona  HI 96740  USA,19.6509449,-155.9971604
+69-250 Waikoloa Beach Drive,Waikoloa (Hawaii),US,96743,HI,USA,69-250 Waikoloa Beach Dr  Waikoloa Village  HI 96738  USA,19.9162949,-155.8823422
+2240 East 17th Street,Idaho Falls,US,83401,ID,USA,2240 E 17th St  Idaho Falls  ID 83404  USA,43.4821962,-111.9893039
+918 Idaho Street,Boise,US,83707,ID,USA,918 W Idaho St  Boise  ID 83702  USA,43.61759199999999,-116.204573
+West 200 Hanley Ave #4,Coeur D'Alene,US,83814,ID,USA,200 W Hanley Ave #4  Coeur d'Alene  ID 83815  USA,47.7317686,-116.7896362
+3340 Mall Loop Drive,Joliet,US,60435,IL,USA,3340 Mall Loop Dr  Joliet  IL 60431  USA,41.5762899,-88.1655663
+2200 West War Memorial Drive,Peoria,US,61613,IL,USA,2200 W War Memorial Dr  Peoria  IL 61613  USA,40.7399472,-89.62852079999999
+6301 Bluebonnet Blvd.,Baton Rouge,US,70836,LA,USA,6301 Bluebonnet Blvd  Baton Rouge  LA 70836  USA,30.3915352,-91.0909387
+"200 Westgate Drive, Suite 25",Brockton,US,2401,MA,200 Westgate Dr #25  Brockton  MA 02301  USA,42.092994,-71.0542059
+2 Galleria Mall Drive,Taunton,US,2718,MA,USA,2 Galleria Mall Dr  East Taunton  MA 02718  USA,41.8649502,-71.0476941
+11160 Viers Mill Road,Wheaton,US,20920,MD,USA,11160 Veirs Mill Rd  Wheaton  MD 20902  USA,39.0361248,-77.05654299999999
+White Marsh Mall,Perry Hall,US,21128,MD,USA,Perry Hall Rd  Perry Hall  MD 21128  USA,39.4240523,-76.4568037
+5500 Buckeystown Pike,Frederick,US,21701,MD,USA,5500 Buckeystown Pike  Frederick  MD 21703  USA,39.3827373,-77.4060411
+700 On The Mall,Minneapolis,US,55402,MN,USA,700 On the Mall  Minneapolis  MN 55403  USA,44.9747506,-93.27397429999999
+5410 Hornaday Road,Greensboro,US,27409,NC,USA,5410 Hornaday Rd  Greensboro  NC 27409  USA,36.0600956,-79.9107593
+6845 Northlake Mall Drive,Charlotte,US,27511,NC,USA,6845 Northlake Mall Dr  Charlotte  NC 28216  USA,35.3511765,-80.8503532
+3634 Maryland Pkwy,Las Vegas,US,89109,NV,USA,3634 S Maryland Pkwy  Las Vegas  NV 89169  USA,36.123249,-115.135635
+800 Central Park Avenue,Yonkers,US,10701,NY,USA,800 Central Park Ave  Yonkers  NY 10704  USA,40.92847829999999,-73.85563719999999
+1 North Galleria Drive,Middletown,US,10940,NY,USA,1 N Galleria Dr  Middletown  NY 10941  USA,41.4524768,-74.36867099999999
+4141 Refugee Road,Columbus,US,43227,OH,USA,4141 Refugee Rd  Columbus  OH 43232  USA,39.9150128,-82.88603189999999
+3265 West Market Street,Akron,US,44313,OH,USA,3265 W Market St  Fairlawn  OH 44333  USA,41.1338108,-81.6178665
+879 Hawthorne Drive,Rodeo,US,94592,CA,USA,879 Hawthorne Dr  Rodeo  CA 94572  USA,38.026404,-122.259766
+3387 Bluejay Dr,Chandler,US,85249,AZ,USA,3387 E Bluejay Dr  Chandler  AZ 85286  USA,33.2634319,-111.7822385
+7125 Highway 93 South,Missoula,US,59806,MT,USA,7125 US-93 BUS  Missoula  MT 59801  USA,46.8366257,-114.0394186
+11220 Dallas Parkway,Frisco,US,75033,TX,USA,11220 Dallas Pkwy  Frisco  TX 75033  USA,33.1746905,-96.83600919999999
+5100 28th St SE,Grand Rapids,US,49548,MI,USA,5100 28th St SE  Grand Rapids  MI 49512  USA,42.91057139999999,-85.5428219
+4201 West Wendover Ave,Greensboro,US,27402,NC,USA,4201 W Wendover Ave  Greensboro  NC 27407  USA,36.0574121,-79.8835837
+14555 Valley Center Drive,Victorville,US,92392,CA,USA,14555 Valley Center Dr  Victorville  CA 92395  USA,34.5149958,-117.3186013
+10990 Harbor Hill Dr.,Gig Harbor,US,98335,WA,USA,10990 Harbor Hill Dr  Gig Harbor  WA 98335  USA,47.3573567,-122.6043929
+9915 W 159th Street,Orland Park,US,60462,IL,USA,9915 W 159th St  Orland Park  IL 60467  USA,41.5994653,-87.8619044
+1540 Froom Ranch Way,San Luis Obispo,US,93401,CA,USA,1540 Froom Ranch Way  San Luis Obispo  CA 93405  USA,35.2518482,-120.6912232
+2887 South Market Street,Gilbert,US,85296,AZ,USA,2887 S Market St  Gilbert  AZ 85297  USA,33.2961656,-111.7449103
+305 West Quinn Rd.,Pocatello,US,83202,ID,USA,305 W Quinn Rd  Pocatello  ID 83201  USA,42.904696,-112.4557605
+2440 Daniels St.,Manteca,US,95336,CA,USA,2440 Daniels St  Manteca  CA 95337  USA,37.7853216,-121.2605559
+3656 Wall Avenue,S. Ogden,US,84403,UT,USA,3656 Wall Ave  Ogden  UT 84405  USA,41.1969447,-111.9775314
+2431 N Germantown Parkway,Cordova,US,38018,TN,USA,2431 N Germantown Pkwy  Cordova  TN 38018  USA,35.1919617,-89.7960535
+18649 Via Princessa,Santa Clarita,US,91351,CA,USA,18649 Vía Princessa  Santa Clarita  CA 91387  USA,34.4046721,-118.4616339
+3800 Central Expressway,East Plano,US,75075,TX,USA,3800 N Central Expy  Plano  TX 75074  USA,33.0448381,-96.6989842
+400 South Baldwin Ave.,Arcadia,US,91006,CA,USA,400 Baldwin Ave  Arcadia  CA 91007  USA,34.1349204,-118.0509968
+1601 Third Avenue,Seattle,US,98181,WA,USA,1601 3rd Ave  Seattle  WA 98101  USA,47.61078029999999,-122.3387609
+183 Pavilions Drive,Manchester,US,6040,CT,USA,183 Pavilions Dr  Manchester  CT 06040  USA,41.8058592,-72.5454439
+2 Galleria Mall Drive,Taunton,US,2718,MA,USA,2 Galleria Mall Dr  East Taunton  MA 02718  USA,41.8649502,-71.0476941
+3265 West Market Street,Akron,US,44313,OH,USA,3265 W Market St  Fairlawn  OH 44333  USA,41.1338108,-81.6178665
+21900 Vanowen Street,Canoga Park,US,91304,CA,USA,21900 Vanowen St  Canoga Park  CA 91303  USA,34.19197,-118.60386
+5410 Hornaday Road,Greensboro,US,27409,NC,USA,5410 Hornaday Rd  Greensboro  NC 27409  USA,36.0600956,-79.9107593
+1800 Loucks Road,York,US,17404,PA,USA,1800 Loucks Rd  York  PA 17408  USA,39.9699774,-76.7720305
+"200 Westgate Drive, Suite 25",Brockton,US,2401,MA,200 Westgate Dr #25  Brockton  MA 02301  USA,42.092994,-71.0542059
+11160 Viers Mill Road,Wheaton,US,20920,MD,USA,11160 Veirs Mill Rd  Wheaton  MD 20902  USA,39.0361248,-77.05654299999999
+White Marsh Mall,Perry Hall,US,21128,MD,USA,Perry Hall Rd  Perry Hall  MD 21128  USA,39.4240523,-76.4568037
+26120 104TH AVENUE SE,KENT,US,98031,WA,USA,26120 104th Ave SE  Kent  WA 98030  USA,47.36743,-122.200887
+2115 S. 1ST STREET,YAKIMA,US,98901,WA,USA,2115 N 1st St  Yakima  WA 98901  USA,46.62448029999999,-120.5118652
+1500 LA FAYETTE PARKWAY,LAGRANGE,US,30240,GA,USA,1500 Lafayette Pkwy  LaGrange  GA 30241  USA,33.041907,-84.9840365
+245 RIVERSIDE ST.,PORTLAND,US,4102,ME,USA,245 Riverside St  Portland  ME 04103  USA,43.68549549999999,-70.3243565
+11 MABELVALE PLAZA LANE,LITTLE ROCK,US,72205,AR,USA,11 Mabelvale Plaza Dr  Little Rock  AR 72209  USA,34.6653285,-92.3835864
+1701 SOUTH 46TH STREET,ROGERS,US,72746,AR,USA,1701 S 46th St  Rogers  AR 72758  USA,36.3179669,-94.1828579
+855 East Dorrell Lane,North Las Vegas,US,89086,NV,USA,855 W Dorrell Ln  North Las Vegas  NV 89086  USA,36.2860174,-115.1314472
+14800 SW Sequoia Pkwy,Tigard,US,97223,OR,USA,14800 SW Sequoia Pkwy  Tigard  OR 97224  USA,45.4133535,-122.7459069
+3795 Hagers Grove Rd SE,Salem,US,97301,OR,USA,3795 Hagers Grove Rd SE  Salem  OR 97317  USA,44.9132019,-122.983967
+3500 Spicer Rd SE,Albany,US,97321,OR,USA,3500 SE Spicer Rd  Albany  OR 97322  USA,44.6286413,-123.0598014
+114 Federal Road,Danbury,US,6810,CT,USA,114 Federal Rd  Danbury  CT 06811  USA,41.4258008,-73.4212314
+80 Buckland Hills Dr.,Manchester,US,6040,CT,USA,80 Buckland Hills Dr  Manchester  CT 06042  USA,41.8064165,-72.5529339
+541 Kings Highway,Fairfield,US,6430,CT,USA,541 Kings Hwy E  Fairfield  CT 06825  USA,41.1721874,-73.2292178
+535 Grand Army Hwy,Somerset,US,2725,MA,USA,535 Grand Army Hwy  Somerset  MA 02725  USA,41.7278386,-71.16823029999999
+1551 Dunlawton Blvd,Port Orange,US,32119,FL,USA,1551 Dunlawton Ave  Port Orange  FL 32127  USA,29.1194527,-81.0221462
+Rte 12 & I395/ River Rd.,Lisbon,US,6351,CT,USA,CT-12 & River Rd  Lisbon  CT 06351  USA,41.6004393,-71.9888907
+240 Turnersburg Hwy,Statesville,US,28687,NC,USA,240 Turnersburg Hwy  Statesville  NC 28625  USA,35.8158638,-80.8741466
+1000 Vision Dr.,Apex,US,27502,NC,USA,1000 Vision Dr  Apex  NC 27523  USA,35.7490289,-78.880893
+387 Charles Street,North Providence,US,2908,RI,USA,387 Charles St  Providence  RI 02904  USA,41.843616,-71.417562
+1000 Hanes Mall Blvd.,Winston Salem,US,27104,NC,USA,1000 Hanes Mall Blvd  Winston-Salem  NC 27103  USA,36.0672739,-80.3153741
+1116 Us Hwy 521,Lancaster,US,29721,SC,USA,1116 US-521  Lancaster  SC 29720  USA,34.7279311,-80.7550651
+2771 - T Kirkwood Drive,Burlington,US,27216,NC,USA,2771 -T Kirkwood Dr  Burlington  NC 27215  USA,36.0657866,-79.4652196
+1700 N. Point Dr.,Durham,US,27701,NC,USA,1700 N Pointe Dr  Durham  NC 27705  USA,36.0296562,-78.9182143
+100 First Ave.,Waltham,US,2454,MA,USA,100 1st Ave  Waltham  MA 02451  USA,42.3928093,-71.2675489
+75 Mystic Ave.,Somerville,US,2143,MA,USA,75 Mystic Ave  Somerville  MA 02145  USA,42.3901218,-71.07953189999999
+2994 Cranberry Highway,Wareham,US,2571,MA,USA,2994 Cranberry Hwy  East Wareham  MA 02538  USA,41.761815,-70.663911
+1341 West Davis,Conroe,US,77305,TX,USA,1341 W Davis St  Conroe  TX 77304  USA,30.31496509999999,-95.47624909999999
+1307 Mormon Mills Rd.,Marble Falls,US,78564,TX,USA,1307 Mormon Mill Rd  Marble Falls  TX 78654  USA,30.5831225,-98.2717256
+12221 Montwood Dr,El Paso,US,79936,TX,USA,12221 Montwood Dr  El Paso  TX 79936  USA,31.7619395,-106.2636114
+411 Loop 281,Longview,US,75606,TX,USA,411 W Loop 281  Longview  TX 75605  USA,32.5409395,-94.7564533
+1900 Brinker Road,Denton,US,72605,TX,USA,1900 Brinker Rd  Denton  TX 76208  USA,33.1881133,-97.0976144
+952 Richards Ave,Santa Fe,US,87505,NM,USA,952 Richards Ave  Santa Fe  NM 87507  USA,35.652144,-106.0024701
+1220 Renaissance Blvd Ne,Albuquerque,US,87105,NM,USA,1220 N Renaissance Blvd NE  Albuquerque  NM 87107  USA,35.1362241,-106.6177587
+1303 Rivery Blvd,Georgetown,US,78626,TX,USA,1303 Rivery Blvd  Georgetown  TX 78628  USA,30.6469354,-97.6905922
+212 W. Katherine P. Raines Blvd.,Cleburne,US,76031,TX,USA,212 W Katherine P Raines Rd  Cleburne  TX 76033  USA,32.3847263,-97.3959974
+6411 Precinct Line Rd.,North Richland Hills,US,76180,TX,USA,6411 Precinct Line Rd  North Richland Hills  TX 76180  USA,32.8611513,-97.1861645
+2615 50th St.,Lubbock,US,79416,TX,USA,2615 50th St  Lubbock  TX 79413  USA,33.547748,-101.873178
+17928 Spring Cypress Rd.,Cypress,US,77410,TX,USA,17928 Spring Cypress Rd  Cypress  TX 77429  USA,29.9733822,-95.6929095
+151 Windsor Ave.,Terrell,US,75149,TX,USA,151 Windsor Ave  Terrell  TX 75160  USA,32.7059056,-96.28189839999999
+2350 N. Main,Roswell,US,88202,NM,USA,2350 N Main St  Roswell  NM 88201  USA,33.4204878,-104.5231535
+2431 N Germantown Parkway,Cordova,US,38018,TN,USA,2431 N Germantown Pkwy  Cordova  TN 38018  USA,35.1919617,-89.7960535
+2828 Chad Drive,Eugene,US,97401,OR,USA,2828 Chad Dr  Eugene  OR 97408  USA,44.0888556,-123.0662122
+2887 South Market Street,Gilbert,US,85296,AZ,USA,2887 S Market St  Gilbert  AZ 85297  USA,33.2961656,-111.7449103
+3031 Killdeer Avenue,Albany,US,97321,OR,USA,3031 Killdeer Ave SE  Albany  OR 97322  USA,44.63854130000001,-123.065852
+10000 W. McDowell Road,Avondale,US,85323,AZ,USA,10000 W McDowell Rd  Avondale  AZ 85392  USA,33.4673339,-112.2744376
+3656 Wall Avenue,S. Ogden,US,84403,UT,USA,3656 Wall Ave  Ogden  UT 84405  USA,41.1969447,-111.9775314
+2800 Independence Dr.,Livermore,US,94550,CA,USA,2800 Independence Dr  Livermore  CA 94551  USA,37.7028882,-121.8125616
+5101 Business Center Dr,Fairfield,US,94585,CA,USA,5101 Business Center Dr  Fairfield  CA 94534  USA,38.2152403,-122.1454704
+2440 Daniels St.,Manteca,US,95336,CA,USA,2440 Daniels St  Manteca  CA 95337  USA,37.7853216,-121.2605559
+17800 Congress Avenue,Boca Raton,US,33431,FL,USA,17800 Congress Ave  Boca Raton  FL 33487  USA,26.4127325,-80.10038469999999
+951 Palomar Airport Rd.,Carlsbad,US,92009-1110,CA,USA,951 Palomar Airport Rd  Carlsbad  CA 92011  USA,33.1201381,-117.3165503
+10990 Harbor Hill Dr.,Gig Harbor,US,98335,WA,USA,10990 Harbor Hill Dr  Gig Harbor  WA 98335  USA,47.3573567,-122.6043929
+2900 Patriot Blvd,Glenview,US,60025,IL,USA,2900 Patriot Blvd  Glenview  IL 60026  USA,42.1093625,-87.8215817
+5100 28th St SE,Grand Rapids,US,49548,MI,USA,5100 28th St SE  Grand Rapids  MI 49512  USA,42.91057139999999,-85.5428219
+4201 West Wendover Ave,Greensboro,US,27402,NC,USA,4201 W Wendover Ave  Greensboro  NC 27407  USA,36.0574121,-79.8835837
+5125 Jonestown Road,Harrisburg,US,17109,PA,USA,5125 Jonestown Rd  Harrisburg  PA 17112  USA,40.3098201,-76.7995798
+8125 Fletcher Parkway,La Mesa,US,91941,CA,USA,8125 Fletcher Pkwy  La Mesa  CA 91942  USA,32.7737125,-117.0247217
+415 Cunningham Drive,Sioux City,US,51101,IA,USA,415 Cunningham Dr  Sioux City  IA 51106  USA,42.4867797,-96.3872542
+4245 E. Court St.,Burton,US,48519,MI,USA,4245 E Court St  Burton  MI 48509  USA,43.0195525,-83.6259663
+45301 Northpoint Blvd.,Utica,US,48317,MI,USA,45301 Northpointe Blvd  Utica  MI 48315  USA,42.631831,-83.00029599999999
+5150 Us 431-Frederica St,Owensboro,US,42302,KY,USA,431 Frederica St  Owensboro  KY 42301  USA,37.7173315,-87.12843319999999
+8598 N Church Rd,Kansas City,US,64158,MO,USA,8598 N Church Rd  Kansas City  MO 64157  USA,39.2476358,-94.4573935
+20777 Hall Rd,Macomb Township,US,48144,MI,USA,20777 Hall Rd  Macomb  MI 48044  USA,42.6290811,-82.9149279
+4210 S. Lee's Summit Rd,Independence,US,64051,MO,USA,4210 S Lee's Summit Rd  Independence  MO 64055  USA,39.0436335,-94.3908721
+13929  Manchester Rd,Town & Country,US,63011,MO,USA,Town and Country Crossing Dr & Town and Country Crossing Blvd  Town and Country  MO 63017  USA,38.6203496,-90.519188
+4100 O'ferrell St.,Hattiesburg,US,39402,MS,USA,Hattiesburg  MS  USA,31.3271189,-89.29033919999999
+50 Halls Ferry Park Rd.,Vicksburg,US,39186,MS,USA,50 Halls Ferry Park Rd  Vicksburg  MS 39180  USA,32.3314292,-90.8837351
+874 I-10 Service Road,Slidell,US,70459,LA,USA,1-10 Service Rd  Slidell  LA 70458  USA,30.264369,-89.7578199
+3721 Ambassador Caffery,Lafayette,US,70501,LA,USA,3721 Ambassador Caffery Pkwy  Lafayette  LA 70503  USA,30.173669,-92.066812
+1700 Ne Evangeline,North La Fayette,US,70506,LA,USA,1700 NE Evangeline Throughway  Lafayette  LA 70501  USA,30.2446327,-92.0118236
+1000 Market Place Blvd,Cumming,US,30040,GA,USA,1000 Market Pl Blvd  Cumming  GA 30041  USA,34.1798562,-84.1301673
+4325 New Snapfinger Woods,Decatur,US,30035-3012,GA,USA,Decatur  GA 30035  USA,33.7220258,-84.201528
+6235 Lima Rd,Ft Wayne,US,45818,IN,USA,6235 Lima Rd  Fort Wayne  IN 46818  USA,41.1354995,-85.16479749999999
+1580 Holcomb Bridge Rd.,Roswell,US,30075,GA,USA,1580 Holcomb Bridge Rd  Roswell  GA 30076  USA,34.0180178,-84.30982929999999
+4950 Stage Rd,Memphis,US,38134,TN,USA,4950 Stage Rd  Memphis  TN 38128  USA,35.2089437,-89.8996195
+1280 Curtis Parkway,Calhoun,US,30703,GA,USA,1280 Curtis Pkwy SE  Calhoun  GA 30701  USA,34.4748077,-84.9201581
+351 Seville Street,Florence,US,35631,AL,USA,351 Seville St  Florence  AL 35630  USA,34.837074,-87.628209
+215 Sw Home Depot Drive,Lake City,US,32055,FL,USA,215 SW Home Depot Dr  Lake City  FL 32025  USA,30.1766926,-82.6661568
+1414 Tallahassee Highway,Bainbridge,US,39817,GA,USA,1414 Tallahassee Hwy  Bainbridge  GA 39819  USA,30.8851176,-84.56548149999999
+1460 N.W. Garden Valley Blvd.,Roseburg,US,97470,OR,USA,1460 NW Garden Valley Blvd  Roseburg  OR 97470  USA,43.2352958,-123.373667
+1014 Ross Park Mall Drive,Pittsburgh,US,15241,PA,USA,1014 Ross Park Mall Dr  Pittsburgh  PA 15237  USA,40.5386317,-80.0091029
+1800 Loucks Road,York,US,17404,PA,USA,1800 Loucks Rd  York  PA 17408  USA,39.9699774,-76.7720305
+U.S. Route 1 & Bristol Road,Bensalem,US,19020,PA,USA,Bristol Rd  Bensalem  PA 19020  USA,40.1352858,-74.9408328
+700 Haywood Drive,Greenville,US,29607-2781,SC,USA,700 Haywood Rd  Greenville  SC 29607  USA,34.849955,-82.3330837
+200 North Star Mall,San Antonio,US,78213,TX,USA,200 Northstar Dr  San Antonio  TX 78216  USA,29.531494,-98.498044
+1601 Third Avenue,Seattle,US,98181,WA,USA,1601 3rd Ave  Seattle  WA 98101  USA,47.61078029999999,-122.3387609
+1502 S.E. Everett Mall Way,Everett,US,98204,WA,USA,1502 SE Everett Mall Way  Everett  WA 98208  USA,47.9125771,-122.2114601
+4301 W Wisconsin Avenue,Appleton,US,54915,WI,USA,4301 W Wisconsin Ave  Appleton  WI 54913  USA,44.2692534,-88.4705139
+918 Idaho Street,Boise,US,83707,ID,USA,918 W Idaho St  Boise  ID 83702  USA,43.61759199999999,-116.204573
+575 Union Street,Waterbury,US,6702,CT,USA,575 Union St  Waterbury  CT 06706  USA,41.5474821,-73.0239673
+8000 W. Broward Blvd.,Plantation,US,33388,FL,USA,8000 W Broward Blvd  Plantation  FL 33388  USA,26.1177929,-80.25466689999999
+6255 Honolulu Avenue Unit #7,Tujunga,US,91042,CA,USA,6255 Honolulu Ave #7  Tujunga  CA 91042  USA,34.2335769,-118.268256
+2368 Powers,Clovis,US,93612,CA,USA,2368 Powers Ave  Clovis  CA 93619  USA,36.8626999,-119.6711833
+81 Sheridan Drive NE Apt 4,Atlanta,US,30302,GA,USA,81 Sheridan Dr NE #4  Atlanta  GA 30305  USA,33.831772,-84.381305
+2368 Powers,Clovis,US,93612,CA,USA,2368 Powers Ave  Clovis  CA 93619  USA,36.8626999,-119.6711833
+11861 Ellice Street #D,Malibu,US,90256,CA,USA,11861 Ellice St  Malibu  CA 90265  USA,34.05203100000001,-118.955823
+115 N 56th Ave,Yakima,US,98909,WA,USA,115 N 56th Ave  Yakima  WA 98908  USA,46.5995953,-120.5827754
+Route 38 & Haddonfield Road,Maple Shade,US,8002,NJ,USA,null,null,null
+West 200 Hanley Ave #4,Coeur D'Alene,US,83814,ID,USA,200 W Hanley Ave #4  Coeur d'Alene  ID 83815  USA,47.7317686,-116.7896362
+800 Central Park Avenue,Yonkers,US,10701,NY,USA,800 Central Park Ave  Yonkers  NY 10704  USA,40.92847829999999,-73.85563719999999
+Almonsesson & Clements Bridge.,Deptford,US,8096,NJ,USA,Almonesson Rd & Clements Bridge Rd  Deptford Township  NJ 08096  USA,39.8330073,-75.1010841
+4141 Refugee Road,Columbus,US,43227,OH,USA,4141 Refugee Rd  Columbus  OH 43232  USA,39.9150128,-82.88603189999999
+5125 Jonestown Road,Harrisburg,US,17109,PA,USA,5125 Jonestown Rd  Harrisburg  PA 17112  USA,40.3098201,-76.7995798
+3031 Killdeer Avenue,Albany,US,97321,OR,USA,3031 Killdeer Ave SE  Albany  OR 97322  USA,44.63854130000001,-123.065852
+2125 Matthews Township Parkway,Matthews,US,28106,NC,USA,2125 Matthews Township Pkwy  Matthews  NC 28105  USA,35.1295315,-80.7046465
+4200 Rusty Road,St. Louis,US,63101,MO,USA,4200 Rusty Rd  St. Louis  MO 63123  USA,38.50814889999999,-90.3384241
+17800 Congress Avenue,Boca Raton,US,33431,FL,USA,17800 Congress Ave  Boca Raton  FL 33487  USA,26.4127325,-80.10038469999999
+10000 W. McDowell Road,Avondale,US,85323,AZ,USA,10000 W McDowell Rd  Avondale  AZ 85392  USA,33.4673339,-112.2744376
+2900 Patriot Blvd,Glenview,US,60025,IL,USA,2900 Patriot Blvd  Glenview  IL 60026  USA,42.1093625,-87.8215817
+2828 Chad Drive,Eugene,US,97401,OR,USA,2828 Chad Dr  Eugene  OR 97408  USA,44.0888556,-123.0662122
+1375 N. Meacham Drive,Schaumburg,US,60193,IL,USA,1375 N Meacham Rd  Schaumburg  IL 60173  USA,42.0551847,-88.0419058
+11220 Dallas Parkway,Frisco,US,75033,TX,USA,11220 Dallas Pkwy  Frisco  TX 75033  USA,33.1746905,-96.83600919999999
+4200 Rusty Road,St. Louis,US,63101,MO,USA,4200 Rusty Rd  St. Louis  MO 63123  USA,38.50814889999999,-90.3384241
+6400 West 92nd Ave,Westminster,US,80030,CO,USA,6400 W 92nd Ave  Westminster  CO 80031  USA,39.8623908,-105.0666388
+3021 Cherry Ave NE,Salem,US,97303,OR,USA,3021 Cherry Ave NE  Salem  OR 97301  USA,44.970294,-123.021396
+15150 Bear Valley Road,Victorville,US,92392,CA,USA,15150 Bear Valley Rd  Victorville  CA 92395  USA,34.4729064,-117.333202
+1545 South Crismon Road,Mesa,US,85208,AZ,USA,1545 S Crismon Rd  Mesa  AZ 85209  USA,33.3886647,-111.6132381
+7400 South Power Road,Queen Creek,US,85242,AZ,USA,7400 S Power Rd  Gilbert  AZ 85297  USA,33.2815135,-111.6868321
+2530 East German Rd.,Chandler,US,85249,AZ,USA,2530 E Germann Rd  Chandler  AZ 85286  USA,33.2818172,-111.7970461
+51 McCain Drive,Frederick,US,21701,MD,USA,51 McCain Dr  Frederick  MD 21702  USA,39.4206988,-77.455212
+150 Hampton Park Blvd,Capitol Heights,US,20791,MD,USA,150 Hampton Park Blvd  Capitol Heights  MD 20743  USA,38.8879164,-76.85125529999999
+305 Worth Road,Stafford,US,22554,VA,USA,305 Worth Ave  Stafford  VA 22556  USA,38.4762453,-77.4187445
+101 Towne Center Drive,Compton,US,90222,CA,USA,101 Towne Center Dr  Compton  CA 90220  USA,33.8797012,-118.2218391
+700 Broadview Village Square,Broadview,US,60153,IL,USA,700 Broadview Village Square  Broadview  IL 60155  USA,41.8533019,-87.84872899999999
+7300 W 159th Street,Orland Park,US,60467,IL,USA,7300 W 159th St  Orland Park  IL 60462  USA,41.6037413,-87.7966606
+105 N Weber Rd,Bolingbrook,US,60440,IL,USA,105 N Weber Rd  Bolingbrook  IL 60490  USA,41.6971384,-88.12530249999999
+27315 W Hartigan Rd,Volo,US,60073,IL,USA,27315 W Hartigan Rd  Ingleside  IL 60041  USA,42.3632863,-88.1711526
+621 Brook Forest Ave,Shorewood,US,60431,IL,USA,621 Brook Forest Ave  Shorewood  IL 60431  USA,41.533524,-88.202213
+129 March Avenue,Manchester,US,3101,NH,USA,129 March Ave  Manchester  NH 03103  USA,42.9612832,-71.4460923
+545 Targee Street,Staten Island,US,10302,NY,USA,545 Targee St  Staten Island  NY 10304  USA,40.6132575,-74.0837418
+4025 Highway 28,Kohler,US,53044,WI,USA,4025 WI-28  Sheboygan  WI 53081  USA,43.7176464,-87.765402
+15050 Jog Rd,Delray Beach,US,33445,FL,USA,15050 Jog Rd  Delray Beach  FL 33446  USA,26.4527293,-80.1440142
+13895 West Okeechobee Road,Hialeah,US,33016,FL,USA,13895 W Okeechobee Rd  Hialeah  FL 33018  USA,25.8963848,-80.3765413
+1600 29th Street,Boulder,US,80303,CO,USA,1600 29th St  Boulder  CO 80301  USA,40.0160986,-105.2548609
+1600 29th Street,Boulder,US,80303,CO,USA,1600 29th St  Boulder  CO 80301  USA,40.0160986,-105.2548609
+2125 Matthews Township Parkway,Matthews,US,28106,NC,USA,2125 Matthews Township Pkwy  Matthews  NC 28105  USA,35.1295315,-80.7046465
+2431 N Germantown Parkway,Cordova,US,38018,TN,USA,2431 N Germantown Pkwy  Cordova  TN 38018  USA,35.1919617,-89.7960535
+11220 Dallas Parkway,Frisco,US,75033,TX,USA,11220 Dallas Pkwy  Frisco  TX 75033  USA,33.1746905,-96.83600919999999
+9915 W 159th Street,Orland Park,US,60462,IL,USA,9915 W 159th St  Orland Park  IL 60467  USA,41.5994653,-87.8619044
+2001 East Ventura Blvd,Oxnard,US,93030,CA,USA,2001 Ventura Blvd  Oxnard  CA 93030  USA,34.22539210000001,-119.1477949
+3800 Central Expressway,East Plano,US,75075,TX,USA,3800 N Central Expy  Plano  TX 75074  USA,33.0448381,-96.6989842
+305 West Quinn Rd.,Pocatello,US,83202,ID,USA,305 W Quinn Rd  Pocatello  ID 83201  USA,42.904696,-112.4557605
+1540 Froom Ranch Way,San Luis Obispo,US,93401,CA,USA,1540 Froom Ranch Way  San Luis Obispo  CA 93405  USA,35.2518482,-120.6912232
+18649 Via Princessa,Santa Clarita,US,91351,CA,USA,18649 Vía Princessa  Santa Clarita  CA 91387  USA,34.4046721,-118.4616339
+1375 N. Meacham Drive,Schaumburg,US,60193,IL,USA,1375 N Meacham Rd  Schaumburg  IL 60173  USA,42.0551847,-88.0419058
+4200 Rusty Road,St. Louis,US,63101,MO,USA,4200 Rusty Rd  St. Louis  MO 63123  USA,38.50814889999999,-90.3384241
+2219 South 37th St.,Tacoma,US,98409-7443,WA,USA,2219 S 37th St  Tacoma  WA 98409  USA,47.2249704,-122.4674726
+14555 Valley Center Drive,Victorville,US,92392,CA,USA,14555 Valley Center Dr  Victorville  CA 92395  USA,34.5149958,-117.3186013
+1755 Hacienda Drive,Vista,US,92083,CA,USA,1755 Hacienda Dr  Vista  CA 92081  USA,33.1883247,-117.2764952
+6400 West 92nd Ave,Westminster,US,80030,CO,USA,6400 W 92nd Ave  Westminster  CO 80031  USA,39.8623908,-105.0666388
+22633 Savi Ranch Parkway,Yorba Linda,US,92886,CA,USA,22633 Savi Ranch Pkwy  Yorba Linda  CA 92887  USA,33.8758177,-117.7439916
+400 South Baldwin Ave.,Arcadia,US,91006,CA,USA,400 Baldwin Ave  Arcadia  CA 91007  USA,34.1349204,-118.0509968
+21900 Vanowen Street,Canoga Park,US,91304,CA,USA,21900 Vanowen St  Canoga Park  CA 91303  USA,34.19197,-118.60386
+200 Northridge Center,Salinas,US,93901,CA,USA,Northridge Shopping Ctr  Salinas  CA 93906  USA,36.7149843,-121.6610173
+183 Pavilions Drive,Manchester,US,6040,CT,USA,183 Pavilions Dr  Manchester  CT 06040  USA,41.8058592,-72.5454439
+575 Union Street,Waterbury,US,6702,CT,USA,575 Union St  Waterbury  CT 06706  USA,41.5474821,-73.0239673
+1700 W. International Speedway Blvd.,Daytona Beach,US,32114-1387,FL,USA,1700 W International Speedway Blvd  Daytona Beach  FL 32114  USA,29.1969645,-81.06339129999999
+8001 South Orange Blossom Trail,Orlando,US,32809-7654,FL,USA,8001 Orange Blossom Trail  Orlando  FL 32809  USA,28.4459894,-81.39775080000001
+1700 W. New Haven Avenue,Melbourne,US,32904-3916,FL,USA,1700 W New Haven Ave  Melbourne  FL 32904  USA,28.0815917,-80.6494748
+777 E. Merritt Island Causeway,Merritt Island,US,32952-3576,FL,USA,777 E Merritt Island Causeway  Merritt Island  FL 32952  USA,28.3543314,-80.6868351
+6200 20th Street,Vero Beach,US,32966-1012,FL,USA,6200 20th St  Vero Beach  FL 32966  USA,27.641324,-80.4575847
+1200 NE 23rd Street,Pompano Beach,US,33064-5500,FL,USA,1200 NE 23rd Ct  Pompano Beach  FL 33064  USA,26.2596158,-80.1060993
+9129 W. Atlantic Blvd.,Coral Springs,US,33071-6938,FL,USA,9129 W Atlantic Blvd  Coral Springs  FL 33071  USA,26.2414753,-80.25166709999999
+1245 NW 107th Avenue,Miami,US,33172-2703,FL,USA,1245 SW 107th Ave  Miami  FL 33174  USA,25.756728,-80.3681191
+19535 Biscayne Blvd,Miami,US,33180-2396,FL,USA,19535 Biscayne Blvd  Aventura  FL 33180  USA,25.9573602,-80.1432591
+8000 W. Broward Blvd.,Plantation,US,33388-0024,FL,USA,8000 W Broward Blvd  Plantation  FL 33388  USA,26.1177929,-80.25466689999999
+1801 Palm Beach Lakes Blvd.,West Palm Beach,US,33401-2021,FL,USA,1801 Palm Beach Lakes Blvd  West Palm Beach  FL 33401  USA,26.7217381,-80.0876735
+3107 PGA Blvd.,Palm Beach Gardens,US,33410-2820,FL,USA,3107 PGA Boulevard  Palm Beach Gardens  FL 33410  USA,26.8450605,-80.0838875
+801 North Congress Ave,Boynton Beach,US,33426-3315,FL,USA,801 Congress Ave  Boynton Beach  FL 33426  USA,26.5354302,-80.0959762
+298 West Shore Plaza,Tampa,US,33609-1811,FL,USA,298 Westshore Plaza  Tampa  FL 33609  USA,27.9479056,-82.5282024
+852 International Pkwy,Flowermound,US,75028,TX,USA,International Pkwy  Flower Mound  TX 75028  USA,32.9926104,-97.06057679999999
+136 Commerce St,Lake Delton,US,53940,WI,USA,136 Commerce St  Wisconsin Dells  WI 53965  USA,43.585271,-89.809686
+5026 W. Holiday Dr.,Peoria,US,61611,IL,USA,5026 West Holiday Drive  Peoria  IL 61615  USA,40.7738669,-89.6724682
+1900 W. 31st St.,Lawrence,US,66044,KS,USA,1900 W 31st St  Lawrence  KS 66046  USA,38.9297778,-95.252409
+5432 Broadway,Quincy,US,62301,IL,USA,5432 Broadway St  Quincy  IL 62305  USA,39.9329449,-91.328283
+1502 S.E. Everett Mall Way,Everett,US,98204,WA,USA,1502 SE Everett Mall Way  Everett  WA 98208  USA,47.9125771,-122.2114601
+4301 W Wisconsin Avenue,Appleton,US,54915,WI,USA,4301 W Wisconsin Ave  Appleton  WI 54913  USA,44.2692534,-88.4705139
+5500 Buckeystown Pike,Frederick,US,21701,MD,USA,5500 Buckeystown Pike  Frederick  MD 21703  USA,39.3827373,-77.4060411
+1 North Galleria Drive,Middletown,US,10940,NY,USA,1 N Galleria Dr  Middletown  NY 10941  USA,41.4524768,-74.36867099999999
+2240 East 17th Street,Idaho Falls,US,83401,ID,USA,2240 E 17th St  Idaho Falls  ID 83404  USA,43.4821962,-111.9893039
+74-5475 Kamaka'eha Avenue,Kailua-Kona,US,96740,HI,USA,74-5475 Kamakaeha Ave  Kailua-Kona  HI 96740  USA,19.6509449,-155.9971604
+69-250 Waikoloa Beach Drive,Waikoloa (Hawaii),US,96743,HI,USA,69-250 Waikoloa Beach Dr  Waikoloa Village  HI 96738  USA,19.9162949,-155.8823422
+3634 Maryland Pkwy,Las Vegas,US,89109,NV,USA,3634 S Maryland Pkwy  Las Vegas  NV 89169  USA,36.123249,-115.135635
+3340 Mall Loop Drive,Joliet,US,60435,IL,USA,3340 Mall Loop Dr  Joliet  IL 60431  USA,41.5762899,-88.1655663
+6301 Bluebonnet Blvd.,Baton Rouge,US,70836,LA,USA,6301 Bluebonnet Blvd  Baton Rouge  LA 70836  USA,30.3915352,-91.0909387
+700 On The Mall,Minneapolis,US,55402,MN,USA,700 On the Mall  Minneapolis  MN 55403  USA,44.9747506,-93.27397429999999
+U.S. Route 1 & Bristol Road,Bensalem,US,19020,PA,USA,Bristol Rd  Bensalem  PA 19020  USA,40.1352858,-74.9408328
+200 North Star Mall,San Antonio,US,78213,TX,USA,200 Northstar Dr  San Antonio  TX 78216  USA,29.531494,-98.498044
+6845 Northlake Mall Drive,Charlotte,US,27511,NC,USA,6845 Northlake Mall Dr  Charlotte  NC 28216  USA,35.3511765,-80.8503532
+2200 West War Memorial Drive,Peoria,US,61613,IL,USA,2200 W War Memorial Dr  Peoria  IL 61613  USA,40.7399472,-89.62852079999999
+1460 N.W. Garden Valley Blvd.,Roseburg,US,97470,OR,USA,1460 NW Garden Valley Blvd  Roseburg  OR 97470  USA,43.2352958,-123.373667
+1014 Ross Park Mall Drive,Pittsburgh,US,15241,PA,USA,1014 Ross Park Mall Dr  Pittsburgh  PA 15237  USA,40.5386317,-80.0091029
+200 Northridge Center,Salinas,US,93901,CA,USA,Northridge Shopping Ctr  Salinas  CA 93906  USA,36.7149843,-121.6610173
+12006 S.W. Garden Place,Portland,US,98682,OR,USA,12006 SW Garden Pl  Tigard  OR 97223  USA,45.4327678,-122.7614662
+12006 SW Garden St,Tigard,US,97008,OR,USA,12006 SW Garden Pl  Tigard  OR 97223  USA,45.4327678,-122.7614662
+515 Lands End Way #177,Oceanside,US,92054,CA,USA,515 Lands End Way #177  Oceanside  CA 92058  USA,33.208644,-117.36891
+653 Russell Avenue,Santa Rosa,US,94503,CA,USA,653 Russell Ave  Santa Rosa  CA 95403  USA,38.4691937,-122.7265517
+3225 18th Street,Eureka,US,17113,CA,USA,3225 18th St  Eureka  CA 95501  USA,40.7923644,-124.1312204
+7482 Shady Hollow Drive,Newark,US,94860,CA,USA,7482 Shady Hollow Dr  Newark  CA 94560  USA,37.539927,-122.056871
+1030 Tanager Lane,Fairfield,US,94522,CA,USA,1030 Tanager Ln  Fairfield  CA 94533  USA,38.271194,-122.014604
+12876 Dresden Court,Ft. Meyers,US,33192,FL,USA,12876 Dresden Ct  Fort Myers  FL 33912  USA,26.555654,-81.815473
+3303 Lakefield Blvd.,Sugarland,US,77419,TX,USA,3303 Lakefield Blvd  Sugar Land  TX 77479  USA,29.570893,-95.585672
+7125 Highway 93 South,Missoula,US,59806,MT,USA,7125 US-93 BUS  Missoula  MT 59801  USA,46.8366257,-114.0394186
+7741 Cedar Hurst Ct,Lake Worth,US,33426,FL,USA,7741 Cedar Hurst Ct  Lake Worth  FL 33467  USA,26.5586309,-80.164114
+163 Bentgreen Dr.,Leland,US,28402,NC,USA,163 Bentgreen Dr  Leland  NC 28451  USA,34.231048,-78.041027
+2660 Escala Circle,San Diego,US,92117,CA,USA,2660 Escala Cir  San Diego  CA 92108  USA,32.7815974,-117.1327167
+2515 E. Fremont Rd.,Phoenix,US,85040,AZ,USA,2515 E Fremont Rd  Phoenix  AZ 85042  USA,33.381232,-112.026458
+2509 Belmont Drive,High Ridge,US,93049,MO,USA,2509 Belmont Dr  High Ridge  MO 63049  USA,38.471463,-90.525362
+652 NE 63rd St #306,Miami,US,33135,FL,USA,652 NE 63rd St #306  Miami  FL 33138  USA,25.833797,-80.18282099999999
+5102 Yosemite Blvd,Modesto,US,95350,CA,USA,5102 Yosemite Blvd  Modesto  CA 95357  USA,37.6382668,-120.9008985
+100 W Alisal ST,Salinas,US,939001,CA,USA,100 W Alisal St  Salinas  CA 93901  USA,36.6737182,-121.6575375
+170 O'Farrell St,San Francisco,US,94117,CA,USA,170 O'Farrell St  San Francisco  CA 94102  USA,37.7870156,-122.4071835
+1545 Parkmoor Ave,San Jose,US,95202,CA,USA,1545 Parkmoor Ave  San Jose  CA 95128  USA,37.317675,-121.9168546
+401 N San Joaquin St,Stockton,US,95203,CA,USA,401 S San Joaquin St  Stockton  CA 95203  USA,37.9492224,-121.286133
+2461 Wind River Rd,El Cajon,US,92109,CA,USA,2461 Wind River Rd  El Cajon  CA 92019  USA,32.75287,-116.911345
+1080 West Sunset Road,Henderson,US,89015,NV,USA,1080 W Sunset Rd  Henderson  NV 89014  USA,36.0665169,-115.0349721
+1235 South Power Road,Mesa,US,85208,AZ,USA,1235 S Power Rd  Mesa  AZ 85206  USA,33.3927662,-111.6828189
+1722 Route 88,Brick,US,8723,NJ,USA,1722 NJ-88  Brick  NJ 08724  USA,40.0724937,-74.13109519999999
+14601 Valley Center Drive,Victorville,US,92392,CA,USA,14601 Valley Center Dr  Victorville  CA 92395  USA,34.5166116,-117.3162868
+46238 Allsbrook Place,Sterling,US,20164,VA,USA,46238 Allsbrook Pl  Sterling  VA 20165  USA,39.043138,-77.399849
+2109 Early Settlers Road,Richmond,US,23228,VA,USA,2109 Early Settlers Rd  Richmond  VA 23235  USA,37.517325,-77.586792
+7303 Creekview Ct.,Louisville,US,40219,KY,USA,7303 Creekview Ct  Louisville  KY 40228  USA,38.149458,-85.62483499999999
+4100 Aquarina St,Waterford,US,48327,MI,USA,4100 Aquarina St  Waterford Twp  MI 48329  USA,42.697878,-83.35831
+446 W Elk Avenue #9,Grand Rapids,US,49505,MI,USA,Country Club Dr NW  Grand Rapids  MI 49504  USA,42.9881448,-85.73545209999999
+2500 Kimberly Lane,Plano,US,75025,TX,USA,2500 Kimberly Ln  Plano  TX 75075  USA,33.019766,-96.741298
+9108 Roundbluff Rd,Plano,US,75075,TX,USA,9108 Roundbluff Rd  Plano  TX 75025  USA,33.1027423,-96.7359621
+326 NE 94th St,Seattle,US,98119,WA,USA,326 NE 94th St  Seattle  WA 98115  USA,47.69703,-122.324565
+12211 Bar X,Austin,US,78720,TX,USA,12211 Bar-X Dr  Austin  TX 78727  USA,30.423978,-97.732197
+8995 East Cornell Ave.,Denver,US,80237,CO,USA,8995 E Cornell Ave  Denver  CO 80231  USA,39.661824,-104.884163
+3387 E Bluejay Dr,Chandler,US,85249,AZ,USA,3387 E Bluejay Dr  Chandler  AZ 85286  USA,33.2634319,-111.7822385
+301 Arlington Drive,Oceanside,US,92054,CA,USA,301 Arlington Dr  Oceanside  CA 92057  USA,33.221805,-117.311135
+49328 Hohokam River St,Indio,US,92203,CA,USA,49328 Hohokam River St  Indio  CA 92201  USA,33.690463,-116.264614
+2368 Powers,Clovis,US,93612,CA,USA,2368 Powers Ave  Clovis  CA 93619  USA,36.8626999,-119.6711833
+1476 Seminole Dr.,South Lake Tahoe,US,96155,CA,USA,1476 Seminole Dr  South Lake Tahoe  CA 96150  USA,38.852754,-120.009558
+525 SE Juniper Ave,Gresham,US,97030,OR,USA,525 NE Juniper Ave  Gresham  OR 97030  USA,45.5003412,-122.4226839
+5211 213 PL SW   #3,Mt Lake Terrace,US,98043,WA,USA,3 Westlake Ave SW  Lakewood  WA 98498  USA,47.1719674,-122.5429056
+163 Bentgreen Dr.,Wilmington,US,28402,NC,USA,163 Bentgreen Dr  Leland  NC 28451  USA,34.231048,-78.041027
+4773 E. Mountain View Drive,San Diego,US,92117,CA,USA,4773 E Mountain View Dr  San Diego  CA 92116  USA,32.7648053,-117.1142577
+1298 East Avenue,Chico,US,95976,CA,USA,1298 East Ave  Chico  CA 95926  USA,39.76141,-121.824852
+119 Sawmill Circle,Vail,US,81658,CO,USA,Sawmill Gulch  Vail  CO 81657  USA,39.5462036,-106.2832403
+10990 Harbor Hill Dr.,Gig Harbor,US,98335,WA,USA,10990 Harbor Hill Dr  Gig Harbor  WA 98335  USA,47.3573567,-122.6043929
+22633 Savi Ranch Parkway,Yorba Linda,US,92886,CA,USA,22633 Savi Ranch Pkwy  Yorba Linda  CA 92887  USA,33.8758177,-117.7439916
+2952 W Gymkhana Wy.,Tucson,US,85741,AZ,USA,2952 W Gymkhana Way  Tucson  AZ 85742  USA,32.39336,-111.031715
+20000 Haggerty Road,Livonia,US,48154,MI,USA,20000 Haggerty Rd  Livonia  MI 48152  USA,42.4329116,-83.4294726
+305 West Quinn Rd.,Pocatello,US,83202,ID,USA,305 W Quinn Rd  Pocatello  ID 83201  USA,42.904696,-112.4557605
+20 Bridewell Place,Clifton,US,7015,NJ,USA,20 Bridewell Pl  Clifton  NJ 07014  USA,40.8314218,-74.1363705
+Devine - Las Vegas,Las Vegas,US,89145,NV,USA,Divine  Las Vegas  NV 89128  USA,36.1823927,-115.2696204
+Devine - Long Beach,Long Beach,US,90832,CA,USA,Long Beach  CA 90832  USA,33.77,-118.2
+Devine - Eugene,Eugene,US,97440,OR,USA,Eugene  OR 97440  USA,44.05,-123.09
+3634 Maryland Pkwy,Las Vegas,US,89109,NV,USA,3634 S Maryland Pkwy  Las Vegas  NV 89169  USA,36.123249,-115.135635
+1601 Third Avenue,Seattle,US,98181,WA,USA,1601 3rd Ave  Seattle  WA 98101  USA,47.61078029999999,-122.3387609
+2905 Harrison Avenue NW,Olympia,US,98503,WA,USA,2905 Harrison Ave NW  Olympia  WA 98502  USA,47.0464292,-122.9382536
+321 Central Ave,Great Falls,US,59403,MT,USA,321 Central Ave  Great Falls  MT 59401  USA,47.50561769999999,-111.3011238
+2240 East 17th Street,Idaho Falls,US,83401,ID,USA,2240 E 17th St  Idaho Falls  ID 83404  USA,43.4821962,-111.9893039
+918 Idaho Street,Boise,US,83707,ID,USA,918 W Idaho St  Boise  ID 83702  USA,43.61759199999999,-116.204573
+301 Capitol Mall,Olympia,US,98503,WA,USA,301 Capitol Way N  Olympia  WA 98501  USA,47.0467541,-122.9023868
+2909 Alderwood Mall Blvd.,Lynnwood,US,98037,WA,USA,2909 Alderwood Mall Blvd  Lynnwood  WA 98036  USA,47.82614909999999,-122.2729112
+"200 Westgate Drive, Suite 25",Brockton,US,2401,MA,200 Westgate Dr #25  Brockton  MA 02301  USA,42.092994,-71.0542059
+White Marsh Mall,Perry Hall,US,21128,MD,USA,Perry Hall Rd  Perry Hall  MD 21128  USA,39.4240523,-76.4568037
+99 Rockingham Park Blvd.,Salem,US,3709,NH,USA,99 Rockingham Park Blvd  Salem  NH 03079  USA,42.7678029,-71.2311553
+Fox Run Rd&Spaulding Turnpike,Newington,US,3801,NH,USA,null,null,null
+Route 38 & Haddonfield Road,Cherry Hill,US,8002,NJ,USA,NJ-38 & Cherry Hill Blvd  Cherry Hill  NJ 08002  USA,39.9395084,-75.01728949999999
+Almonsesson & Clements Bridge.,Deptford,US,8096,NJ,USA,Almonesson Rd & Clements Bridge Rd  Deptford Township  NJ 08096  USA,39.8330073,-75.1010841
+Baltimore Pike & Sproul Road,Springfield,US,19064,PA,USA,Baltimore Pike & W Sproul Rd  Springfield  PA 19064  USA,39.9135772,-75.34941649999999
+800 Central Park Avenue,Yonkers,US,10701,NY,USA,800 Central Park Ave  Yonkers  NY 10704  USA,40.92847829999999,-73.85563719999999
+440 Route 440,Jersey City,US,7302,NJ,USA,440 NJ-440  Jersey City  NJ 07304  USA,40.71906380000001,-74.0935477
+170 Union Hill Road,Marlboro,US,7751,NJ,USA,170 Union Hill Rd  Englishtown  NJ 07726  USA,40.3414475,-74.3039601
+79 Route 46,Montville,US,7045,NJ,USA,79 US-46  Caldwell  NJ 07006  USA,40.860521,-74.32180799999999
+150 Market Drive,Elyria,US,44036,OH,USA,150 Market Dr  Elyria  OH 44035  USA,41.3869028,-82.107002
+131-35 Avery Avenue,Flushing,US,11354,NY,USA,131-35 Avery Ave  Flushing  NY 11355  USA,40.7526521,-73.8351995
+145 Levitton Parkway,Tullytown,US,19057,PA,USA,145 Levittown Pkwy  Levittown  PA 19055  USA,40.1400504,-74.8225257
+465 State Highway 17,Mahwah,US,7498,NJ,USA,465 NJ-17  Mahwah  NJ 07430  USA,41.0791994,-74.1465465
+80 Buckland Hills Dr,Manchester,US,6040,CT,USA,80 Buckland Hills Dr  Manchester  CT 06042  USA,41.8064165,-72.5529339
+401 W. Esplanade Drive,Oxnard,US,93030,CA,USA,401 W Esplanade Dr  Oxnard  CA 93036  USA,34.2355285,-119.1779623
+15150 Bear Valley Road,Victorville,US,92392,CA,USA,15150 Bear Valley Rd  Victorville  CA 92395  USA,34.4729064,-117.333202
+2120 South Bradley Road,Santa Maria,US,93454,CA,USA,2120 S Bradley Rd  Santa Maria  CA 93455  USA,34.9222784,-120.4220154
+20642 Golden Triangle Road,Santa Clarita,US,91350,CA,USA,20642 Golden Triangle Rd  Santa Clarita  CA 91351  USA,34.419174,-118.497052
+2200 Oregon Avenue,Philadelphia,US,19102,PA,USA,2200 W Oregon Ave  Philadelphia  PA 19145  USA,39.9158285,-75.1857874
+210 Fort Meade Road,Laurel,US,20724,MD,USA,210 Fort Meade Rd  Laurel  MD 20707  USA,39.0937514,-76.840491
+387 Charles Street,North Providence,US,2908,RI,USA,387 Charles St  Providence  RI 02904  USA,41.843616,-71.417562
+615 Arsenal Street,Watertown,US,2471,MA,USA,615 Arsenal St  Watertown  MA 02471  USA,42.3625797,-71.15741129999999
+75 Mystic Avenue,Somerville,US,2143,MA,USA,75 Mystic Ave  Somerville  MA 02145  USA,42.3901218,-71.07953189999999
+535 Grand Army Highway,Somerset,US,2725,MA,USA,535 Grand Army Hwy  Somerset  MA 02725  USA,41.7278386,-71.16823029999999
+899 County Street,Taunton,US,2718,MA,USA,County St  Taunton  MA  USA,41.86786379999999,-71.0499766
+114 Federal Road,Danbury,US,6810,CT,USA,114 Federal Rd  Danbury  CT 06811  USA,41.4258008,-73.4212314
+5203 Bardes Rd,Mason,US,45050,OH,USA,5203 Bardes Rd  Mason  OH 45040  USA,39.294693,-84.32007399999999
+545 French Rd,New Hartford,US,13413,NY,USA,545 French Rd  New Hartford  NY 13413  USA,43.089371,-75.28056699999999
+514 East Main Street,Westfield,US,185,MA,USA,514 E Main St  Westfield  MA 01085  USA,42.1133871,-72.7209652
+6845 Northlake Mall Drive,Charlotte,US,27511,NC,USA,6845 Northlake Mall Dr  Charlotte  NC 28216  USA,35.3511765,-80.8503532
+200 North Star Mall,San Antonio,US,78213,TX,USA,200 Northstar Dr  San Antonio  TX 78216  USA,29.531494,-98.498044
+6845 Northlake Mall Drive,Charlotte,US,27511,NC,USA,6845 Northlake Mall Dr  Charlotte  NC 28216  USA,35.3511765,-80.8503532
+6301 Bluebonnet Blvd.,Baton Rouge,US,70836,LA,USA,6301 Bluebonnet Blvd  Baton Rouge  LA 70836  USA,30.3915352,-91.0909387
+200 Northridge Center,Salinas,US,93901,CA,USA,Northridge Shopping Ctr  Salinas  CA 93906  USA,36.7149843,-121.6610173
+400 South Baldwin Ave.,Arcadia,US,91006,CA,USA,400 Baldwin Ave  Arcadia  CA 91007  USA,34.1349204,-118.0509968
+2800 North Main Street,Santa Ana,US,92701,CA,USA,2800 N Main St  Santa Ana  CA 92705  USA,33.7737649,-117.8674374
+1502 SE Everett Mall Way,Everett,US,98204,WA,USA,1502 SE Everett Mall Way  Everett  WA 98208  USA,47.9125771,-122.2114601
+21900 Vanowen Street,Canoga Park,US,91304,CA,USA,21900 Vanowen St  Canoga Park  CA 91303  USA,34.19197,-118.60386
+5613 W. 88th Avenue,Denver,US,80030,CO,USA,W 88th Ave  Colorado  USA,39.85636909999999,-105.0479491
+1601 Third Avenue,Seattle,US,98181,WA,USA,1601 3rd Ave  Seattle  WA 98101  USA,47.61078029999999,-122.3387609
+2240 East 17Th Street,Idaho Falls,US,83401,ID,USA,2240 E 17th St  Idaho Falls  ID 83404  USA,43.4821962,-111.9893039
+918 Idaho Street,Boise,US,83707,ID,USA,918 W Idaho St  Boise  ID 83702  USA,43.61759199999999,-116.204573
+West 200 Hanley Ave #4,Coeur D Alene,US,83814,ID,USA,200 W Hanley Ave #4  Coeur d'Alene  ID 83815  USA,47.7317686,-116.7896362
+1460 N.W. Garden Valley Blvd.,Roseburg,US,97470,OR,USA,1460 NW Garden Valley Blvd  Roseburg  OR 97470  USA,43.2352958,-123.373667
+1502 S.E. Everett Mall Way,Everett,US,98204,WA,USA,1502 SE Everett Mall Way  Everett  WA 98208  USA,47.9125771,-122.2114601
+Main & Wall St,Spokane,US,99201,WA,USA,N Wall St & W Main Ave  Spokane  WA 99201  USA,47.6590128,-117.4220795
+6333 SW Macadam Ave Ste 103,Portland,US,97201,OR,USA,6333 SW Macadam Ave #103  Portland  OR 97239  USA,45.4781744,-122.6727073
+#42 Oregon City Shopping Center,Oregon City,US,97045,OR,USA,Oregon City  OR 97045  USA,45.3573429,-122.6067583
+25615 104th Ave SE,Kent,US,98031,WA,USA,25615 104th Ave SE  Kent  WA 98031  USA,47.3717664,-122.2033034
+10309 SE 82nd,Clackamas,US,97266,OR,USA,10309 SE 82nd Ave  Portland  OR 97222  USA,45.4486526,-122.5789923
+43900 Icehouse Terrace,Fremont,US,94539,CA,USA,43900 Ice House Terrace  Fremont  CA 94538  USA,37.5111942,-121.9463883
+2500 Las Pisitas Rd.,Livermore,US,94550,CA,USA,2500 Las Positas Rd  Livermore  CA 94551  USA,37.6987508,-121.7707074
